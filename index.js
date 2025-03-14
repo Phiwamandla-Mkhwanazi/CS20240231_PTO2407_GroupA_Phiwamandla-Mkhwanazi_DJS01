@@ -1,3 +1,4 @@
+"use strict";
 /**
  * Debugging Guide
  * 1. Make the code more readable
